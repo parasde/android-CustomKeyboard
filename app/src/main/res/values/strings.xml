@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">keyboard</string>
+
+
+    <!-- keyboard -->
+    <string-array name="number_pad">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="line1_en">
+        <item>Q</item>
+        <item>W</item>
+        <item>E</item>
+        <item>R</item>
+        <item>T</item>
+        <item>Y</item>
+        <item>U</item>
+        <item>I</item>
+        <item>O</item>
+        <item>P</item>
+    </string-array>
+    <string-array name="line2_en">
+        <item>A</item>
+        <item>S</item>
+        <item>D</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="line3_en">
+        <item>Z</item>
+        <item>X</item>
+        <item>C</item>
+        <item>V</item>
+        <item>B</item>
+        <item>N</item>
+        <item>M</item>
+        <item>DEL</item>
+    </string-array>
+    <string-array name="line4_en">
+        <item>CAPS</item>
+        <item>!/?</item>
+        <item>⎵</item>
+        <item>⏎</item>
+    </string-array>
+    <!-- keyboard caps -->
+    <string-array name="caps_line1_en">
+        <item>q</item>
+        <item>w</item>
+        <item>e</item>
+        <item>r</item>
+        <item>t</item>
+        <item>y</item>
+        <item>u</item>
+        <item>i</item>
+        <item>o</item>
+        <item>p</item>
+    </string-array>
+    <string-array name="caps_line2_en">
+        <item>a</item>
+        <item>s</item>
+        <item>d</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+    </string-array>
+    <string-array name="caps_line3_en">
+        <item>z</item>
+        <item>x</item>
+        <item>c</item>
+        <item>v</item>
+        <item>b</item>
+        <item>n</item>
+        <item>m</item>
+        <item>DEL</item>
+    </string-array>
+
+    <!-- special char -->
+    <string-array name="sc_line_1">
+        <item>+</item>
+        <item>×</item>
+        <item>÷</item>
+        <item>=</item>
+        <item>/</item>
+        <item>￦</item>
+        <item>&lt;</item>
+        <item>&gt;</item>
+        <item>♡</item>
+        <item>☆</item>
+    </string-array>
+    <string-array name="sc_line_2">
+        <item>!</item>
+        <item>＠</item>
+        <item>#</item>
+        <item>~</item>
+        <item>%</item>
+        <item>^</item>
+        <item>&amp;</item>
+        <item>*</item>
+        <item>(</item>
+        <item>)</item>
+    </string-array>
+    <string-array name="sc_line_3">
+        <item>CAPS</item>
+        <item>-</item>
+        <item>\'</item>
+        <item>\"</item>
+        <item>:</item>
+        <item>;</item>
+        <item>,</item>
+        <item>\?</item>
+        <item>DEL</item>
+    </string-array>
+    <string-array name="sc_line_4">
+        <item>ABC</item>
+        <item>⎵</item>
+        <item>.</item>
+        <item>⏎</item>
+    </string-array>
+    <!-- special char caps-->
+    <string-array name="sc_caps_line_1">
+        <item>｀</item>
+        <item>_</item>
+        <item>\\</item>
+        <item>|</item>
+        <item>♤</item>
+        <item>♧</item>
+        <item>{</item>
+        <item>}</item>
+        <item>[</item>
+        <item>]</item>
+    </string-array>
+    <string-array name="sc_caps_line_2">
+        <item>•</item>
+        <item>○</item>
+        <item>●</item>
+        <item>◻︎</item>
+        <item>◼︎</item>
+        <item>◇</item>
+        <item>$</item>
+        <item>€</item>
+        <item>￡</item>
+        <item>￥</item>
+    </string-array>
+    <string-array name="sc_caps_line_3">
+        <item>CAPS</item>
+        <item>˚</item>
+        <item>※</item>
+        <item>¤</item>
+        <item>≪</item>
+        <item>≫</item>
+        <item>¡</item>
+        <item>¿</item>
+        <item>DEL</item>
+    </string-array>
+    <string-array name="sc_caps_line_4">
+        <item>ABC</item>
+        <item>⎵</item>
+        <item>.</item>
+        <item>⏎</item>
+    </string-array>
+</resources>

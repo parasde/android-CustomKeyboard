@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/keyButtonImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/key_margin_top"
+        android:layout_marginBottom="@dimen/key_margin_bottom"
+        android:layout_marginEnd="@dimen/key_margin_right"
+        android:layout_marginStart="@dimen/key_margin_left"
+        android:background="@drawable/key_bg" />
+
+    <View
+        android:id="@+id/keyState"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:background="@drawable/circle_off"/>
+
+    <Button
+        android:id="@+id/keyButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/key_margin_top"
+        android:layout_marginBottom="@dimen/key_margin_bottom"
+        android:layout_marginEnd="@dimen/key_margin_right"
+        android:layout_marginStart="@dimen/key_margin_left"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:background="@drawable/key_bg"/>
+
+</RelativeLayout>

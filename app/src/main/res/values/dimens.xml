@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">56dp</dimen>
+    <dimen name="key_margin_top">6dp</dimen>
+    <dimen name="key_margin_left">2dp</dimen>
+    <dimen name="key_margin_right">2dp</dimen>
+    <dimen name="key_margin_bottom">4dp</dimen>
+</resources>
